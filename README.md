@@ -93,23 +93,13 @@ To gain practical experience through an internship in the IT industry, especiall
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MalshiUdesika&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshiUdesika&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ## 📫 Contact Me
 
 - 📧 Email: **rashmisashini01@gmail.com**
-- 💻 GitHub: https://github.com/
-- 💼 LinkedIn: (Add your LinkedIn profile link here)
+- 💻 GitHub: https://github.com/Sasikala0106
+- 💼 LinkedIn: https://www.linkedin.com/in/rashmi-sashini-14125b302?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
