@@ -99,7 +99,8 @@ To gain practical experience through an internship in the IT industry, especiall
 
 - 📧 Email: **rashmisashini01@gmail.com**
 - 💻 GitHub: https://github.com/Sasikala0106
-- 💼 LinkedIn: https://www.linkedin.com/in/rashmi-sashini-14125b302?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💼 LinkedIn: www.linkedin.com/in/rashmi-sashini-14125b302
+
 
 ---
 
